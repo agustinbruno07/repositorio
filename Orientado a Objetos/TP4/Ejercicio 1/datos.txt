@@ -1,0 +1,12 @@
+Nombre: Julinza
+Apellido: Linza
+DNI: 4444
+Nombre: Pablo
+Apellido: Parcolva
+DNI: 44494949
+Nombre: Larilila
+Apellido: Lorina
+DNI: 992112132
+Nombre: Carlos
+Apellido: Alcaraz
+DNI: 22237271
